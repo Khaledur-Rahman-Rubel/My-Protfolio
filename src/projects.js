@@ -3,13 +3,13 @@ const projects = [
     title: "React E-commerce",
     description: "A Movie Selling Website e-commerce project using React, Tailwind, and Context API.",
     link: "https://qtec-assessment-task.vercel.app/",
-    image: "../public/project-image/MovieSellingWebsite.png",
+    image: "/project-image/MovieSellingWebsite.png",
   },
   {
     title: "Expense Tracker Website",
     description: "React + Tailwind “Expense Tracker” project page with add, edit, and delete functionality.",
     link: "https://assignment-2-sandy-xi.vercel.app/",
-    image: "../public/project-image/ExpenseTracker.png",
+    image: "/project-image/ExpenseTracker.png",
   },
   {
     title: "My Portfolio",
@@ -21,19 +21,19 @@ const projects = [
     title: "Game",
     description: "A Game project built with React + Tailwind CSS.",
     link: "https://learn-with-sumit-all-proje-git-d79e6f-khaledur-rahmans-projects.vercel.app/",
-    image: "../public/project-image/Game.png",
+    image: "/project-image/Game.png",
   },
    {
     title: "Card Lists Website",
     description: "React + Tailwind “Card Lists” project page with add, edit, and delete functionality",
     link: "https://learn-with-sumita-all-assignment-18zokg1gm.vercel.app/",
-    image: "../public/project-image/List Website.png",
+    image: "/project-image/List Website.png",
   },
   {
     title: "Movie Website",
     description: "React + Tailwind “Movie website” project functionality",
     link: "https://learn-with-sumit-all-projects-3.vercel.app/",
-    image: "../public/project-image/Movie.png",
+    image: "/project-image/Movie.png",
   },
    {
     title: "Task Website",
