@@ -34,7 +34,7 @@ const certificates = [
     issuer: "Interactive Cares",
     date: "May 15th, 2025",
     image: "../public/image/Interactive.png",
-    link: "../public/image/Interactive.png",
+    link: "/image/Interactive.png",
   },
 ];
 

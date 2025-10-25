@@ -14,8 +14,8 @@ const projects = [
   {
     title: "My Portfolio",
     description: "A personal portfolio website built with React and Tailwind CSS.",
-    link: "https://qtec-assessment-task.vercel.app/",
-    image: "https://via.placeholder.com/400x250", 
+    link: "https://my-protfolio-self-omega.vercel.app/",
+    image: "/project-image/MyPortfolio.png", 
   },
   {
     title: "Game",
@@ -39,37 +39,37 @@ const projects = [
     title: "Task Website",
     description: "React + Tailwind “Task website” project page with delete, add, edit, add favourite functionality",
     link: "https://learn-with-sumit-all-projects-2.vercel.app/",
-    image: "../public/project-image/Tasker.png",
+    image: "/project-image/Tasker.png",
   },
   {
     title: "Property selling Website",
     description: "React + Tailwind “Property selling website” project page",
     link: "https://learn-with-sumita-all-assaginment-qw9m.vercel.app/#about",
-    image: "../public/project-image/Property.png",
+    image: "/project-image/Property.png",
   },
   {
     title: "Happy Coaching Website",
     description: "Html, CSS, JavaScript “Happy Coaching website” project page",
     link: "https://monumental-marshmallow-ff0854.netlify.app/",
-    image: "../public/project-image/HappyCoaching.png",
+    image: "/project-image/HappyCoaching.png",
   },
   {
     title: "Sign Up Website",
     description: "React “Sign up website” project page",
     link: "https://incandescent-souffle-0e1ee6.netlify.app/",
-    image: "../public/project-image/SignUpPage.png",
+    image: "/project-image/SignUpPage.png",
   },
    {
     title: "Todo App Website",
     description: "React “Todo App website” project page",
     link: "https://sage-dragon-beeb7d.netlify.app/",
-    image: "../public/project-image/TodoApp.png",
+    image: "/project-image/TodoApp.png",
   },
    {
     title: "Routting Website",
     description: "React “Routing website” project page with add, edit, and delete functionality",
     link: "https://tangerine-stardust-4682ff.netlify.app/",
-    image: "../public/project-image/Routing.png",
+    image: "/project-image/Routing.png",
   },
 ];
 
